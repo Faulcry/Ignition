@@ -1,5 +1,5 @@
 # Ignition
-Ignition is a Discord bot made to manage remote game servers via Discord bot commands.
+Ignition is a Discord bot made to manage remote game servers, applications, and devices via Discord bot commands.
 
 # Getting Started
 
